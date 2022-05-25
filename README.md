@@ -9,6 +9,8 @@
 [NestJS](https://docs.nestjs.com)  
 [Rails](https://guides.rubyonrails.org/)  
 [Grape](https://nicedoc.io/ruby-grape/grape)  
+[Django](https://docs.djangoproject.com/en/)  
+[Django REST Framework](https://www.django-rest-framework.org/)  
 [OpenDAX](https://www.openware.com/sdk/2.6/sdk.html)  
 
 ## Others
