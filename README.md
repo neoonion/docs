@@ -1,6 +1,10 @@
 # Documentations
 
 ## Frontend
+[MDN](https://developer.mozilla.org/en-US/)  
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+[React](https://reactjs.org/docs/getting-started.html)  
+[Redux](https://redux.js.org/introduction/getting-started)  
 [Next.js](https://nextjs.org/docs)  
 [React-Bootstrap](https://react-bootstrap.github.io/components/alerts)  
 [Chakra UI](https://chakra-ui.com/docs/components/overview)  
