@@ -15,3 +15,12 @@
 
 ## Others
 [Markdown](https://www.markdownguide.org/cheat-sheet/)  
+
+# Courses
+
+## Redux
+[Fundamentals of Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)  
+[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)  
+
+## Chakra UI
+[Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)  
