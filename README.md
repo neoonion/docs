@@ -17,6 +17,10 @@
 [Django REST Framework](https://www.django-rest-framework.org/)  
 [OpenDAX](https://www.openware.com/sdk/2.6/sdk.html)  
 
+## AWS
+[AWS](https://docs.aws.amazon.com/)  
+[Terraform](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)  
+
 ## Others
 [Markdown](https://www.markdownguide.org/cheat-sheet/)  
 
