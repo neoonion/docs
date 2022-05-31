@@ -15,6 +15,7 @@
 [Grape](https://nicedoc.io/ruby-grape/grape)  
 [Django](https://docs.djangoproject.com/en/)  
 [Django REST Framework](https://www.django-rest-framework.org/)  
+[django-filter](https://django-filter.readthedocs.io/en/latest/index.html)  
 [OpenDAX](https://www.openware.com/sdk/2.6/sdk.html)  
 
 ## AWS
