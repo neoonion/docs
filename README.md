@@ -11,6 +11,7 @@
 
 ## Backend
 [NestJS](https://docs.nestjs.com)  
+[Ruby](https://ruby-doc.org/core-3.1.2/)  
 [Rails](https://guides.rubyonrails.org/)  
 [Grape](https://nicedoc.io/ruby-grape/grape)  
 [Django](https://docs.djangoproject.com/en/)  
