@@ -14,6 +14,7 @@
 [Ruby](https://ruby-doc.org/core-3.1.2/)  
 [Rails](https://guides.rubyonrails.org/)  
 [Grape](https://nicedoc.io/ruby-grape/grape)  
+[Bunny](http://rubybunny.info/articles/guides.html)  
 [Django](https://docs.djangoproject.com/en/)  
 [Django REST Framework](https://www.django-rest-framework.org/)  
 [django-filter](https://django-filter.readthedocs.io/en/latest/index.html)  
