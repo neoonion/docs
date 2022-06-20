@@ -16,6 +16,7 @@
 [Rails](https://guides.rubyonrails.org/)  
 [Grape](https://nicedoc.io/ruby-grape/grape)  
 [Bunny](http://rubybunny.info/articles/guides.html)  
+[RabbitMQ](https://www.rabbitmq.com/getstarted.html)  
 [Django](https://docs.djangoproject.com/en/)  
 [Django REST Framework](https://www.django-rest-framework.org/)  
 [django-filter](https://django-filter.readthedocs.io/en/latest/index.html)  
