@@ -16,11 +16,17 @@
 [Rails](https://guides.rubyonrails.org/)  
 [Grape](https://nicedoc.io/ruby-grape/grape)  
 [Bunny](http://rubybunny.info/articles/guides.html)  
-[RabbitMQ](https://www.rabbitmq.com/getstarted.html)  
 [Django](https://docs.djangoproject.com/en/)  
 [Django REST Framework](https://www.django-rest-framework.org/)  
 [django-filter](https://django-filter.readthedocs.io/en/latest/index.html)  
+[Masonite](https://docs.masoniteproject.com/)  
 [OpenDAX](https://www.openware.com/sdk/2.6)  
+
+## Middleware
+[Redis](https://redis.io/docs/)  
+[RabbitMQ](https://www.rabbitmq.com/getstarted.html)  
+[ElasticSearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)  
+
 
 ## Infrastructure
 [AWS](https://docs.aws.amazon.com/)  
