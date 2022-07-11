@@ -49,4 +49,5 @@
 [LiangLiangLee](https://learn.lianglianglee.com/)  
 
 # System Design
+[Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)  
 [Design a Chat Application](https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0)  
