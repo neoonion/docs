@@ -54,3 +54,4 @@
 # System Design
 [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)  
 [Design a Chat Application](https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0)  
+[FAANG System Design Interview: Design Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)  
