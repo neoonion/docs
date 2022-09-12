@@ -22,6 +22,9 @@
 [Masonite](https://docs.masoniteproject.com/)  
 [OpenDAX](https://www.openware.com/sdk/2.6)  
 
+### Elixir
+[Ecto](https://hexdocs.pm/ecto/Ecto.html)  
+
 ## Middleware
 [Redis](https://redis.io/docs/)  
 [RabbitMQ](https://www.rabbitmq.com/getstarted.html)  
