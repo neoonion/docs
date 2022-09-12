@@ -11,16 +11,21 @@
 [Chakra UI](https://chakra-ui.com/docs/components/overview)  
 
 ## Backend
+### JavaScript
 [NestJS](https://docs.nestjs.com)  
+
+### Ruby
 [Ruby](https://ruby-doc.org/core-3.1.2/)  
 [Rails](https://guides.rubyonrails.org/)  
 [Grape](https://nicedoc.io/ruby-grape/grape)  
 [Bunny](http://rubybunny.info/articles/guides.html)  
+[OpenDAX](https://www.openware.com/sdk/2.6)  
+
+### Python
 [Django](https://docs.djangoproject.com/en/)  
 [Django REST Framework](https://www.django-rest-framework.org/)  
 [django-filter](https://django-filter.readthedocs.io/en/latest/index.html)  
 [Masonite](https://docs.masoniteproject.com/)  
-[OpenDAX](https://www.openware.com/sdk/2.6)  
 
 ### Elixir
 [Ecto](https://hexdocs.pm/ecto/Ecto.html)  
