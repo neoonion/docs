@@ -29,6 +29,7 @@
 
 ### Elixir
 [Ecto](https://hexdocs.pm/ecto/Ecto.html)  
+[LiveView](https://hexdocs.pm/phoenix_live_view)  
 
 ## Middleware
 [Redis](https://redis.io/docs/)  
