@@ -14,6 +14,7 @@
 ## Backend
 ### JavaScript
 [NestJS](https://docs.nestjs.com)  
+[Prisma](https://www.prisma.io/docs/)  
 
 ### Ruby
 [Ruby](https://ruby-doc.org/core-3.1.2/)  
