@@ -3,6 +3,7 @@
 ## Frontend
 [MDN](https://developer.mozilla.org/en-US/)  
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+[TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)  
 [React](https://reactjs.org/docs/getting-started.html)  
 [Practical React Query](https://tkdodo.eu/blog/practical-react-query)  
 [Redux](https://redux.js.org/introduction/getting-started)  
