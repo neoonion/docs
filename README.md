@@ -30,6 +30,9 @@
 [django-filter](https://django-filter.readthedocs.io/en/latest/index.html)  
 [Masonite](https://docs.masoniteproject.com/)  
 
+### Go
+[Go Tour](https://go.dev/tour/list)  
+
 ### Elixir
 [Ecto](https://hexdocs.pm/ecto/Ecto.html)  
 [LiveView](https://hexdocs.pm/phoenix_live_view)  
