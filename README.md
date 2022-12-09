@@ -1,40 +1,41 @@
 # Documentations
 
-## Frontend
-[MDN](https://developer.mozilla.org/en-US/)  
+## JavaScript
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/)  
+
+#### Frontend
+[MDN](https://developer.mozilla.org/en-US/)  
 [React](https://reactjs.org/docs/getting-started.html)  
+[Next.js](https://nextjs.org/docs)  
 [Practical React Query](https://tkdodo.eu/blog/practical-react-query)  
 [Redux](https://redux.js.org/introduction/getting-started)  
 [React Router](https://reactrouter.com/docs)  
-[Next.js](https://nextjs.org/docs)  
 [React-Bootstrap](https://react-bootstrap.github.io/components/alerts)  
 [Chakra UI](https://chakra-ui.com/docs/components/overview)  
 
-## Backend
-### JavaScript
-[NestJS](https://docs.nestjs.com)  
-[Prisma](https://www.prisma.io/docs/)  
+#### Backend
 [T3](https://create.t3.gg/)  
+[Prisma](https://www.prisma.io/docs/)  
+[NestJS](https://docs.nestjs.com)  
 
-### Ruby
+## Ruby
 [Ruby](https://ruby-doc.org/core-3.1.2/)  
 [Rails](https://guides.rubyonrails.org/)  
 [Grape](https://nicedoc.io/ruby-grape/grape)  
 [Bunny](http://rubybunny.info/articles/guides.html)  
 [OpenDAX](https://www.openware.com/sdk/2.6)  
 
-### Python
+## Python
 [Django](https://docs.djangoproject.com/en/)  
 [Django REST Framework](https://www.django-rest-framework.org/)  
 [django-filter](https://django-filter.readthedocs.io/en/latest/index.html)  
 [Masonite](https://docs.masoniteproject.com/)  
 
-### Go
+## Go
 [Go Tour](https://go.dev/tour/list)  
 
-### Elixir
+## Elixir
 [Ecto](https://hexdocs.pm/ecto/Ecto.html)  
 [LiveView](https://hexdocs.pm/phoenix_live_view)  
 
@@ -42,7 +43,6 @@
 [Redis](https://redis.io/docs/)  
 [RabbitMQ](https://www.rabbitmq.com/getstarted.html)  
 [ElasticSearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)  
-
 
 ## Infrastructure
 [AWS](https://docs.aws.amazon.com/)  
