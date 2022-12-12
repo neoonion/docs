@@ -54,6 +54,9 @@
 
 # Courses
 
+## AI
+[Hugging Face Deep Reinforcement Learning](https://huggingface.co/deep-rl-course/)  
+
 ## Redux
 [Fundamentals of Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)  
 [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)  
