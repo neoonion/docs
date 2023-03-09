@@ -19,6 +19,12 @@
 [Prisma](https://www.prisma.io/docs/)  
 [NestJS](https://docs.nestjs.com)  
 
+#### T3
+[T3](https://create.t3.gg/)  
+[Next.js](https://nextjs.org/docs)  
+[Prisma](https://www.prisma.io/docs/)  
+[Zod](https://zod.dev)  
+
 ## Ruby
 [Ruby](https://ruby-doc.org/core-3.1.2/)  
 [Rails](https://guides.rubyonrails.org/)  
