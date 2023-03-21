@@ -14,15 +14,14 @@
 [React-Bootstrap](https://react-bootstrap.github.io/components/alerts)  
 [Chakra UI](https://chakra-ui.com/docs/components/overview)  
 
-#### Backend
-[T3](https://create.t3.gg/)  
-[Prisma](https://www.prisma.io/docs/)  
+#### Backend 
 [NestJS](https://docs.nestjs.com)  
 
 #### T3
 [T3](https://create.t3.gg/)  
 [Next.js](https://nextjs.org/docs)  
 [Prisma](https://www.prisma.io/docs/)  
+[tRPC](https://trpc.io/)  
 [Zod](https://zod.dev)  
 
 ## Ruby
