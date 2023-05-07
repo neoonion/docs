@@ -7,7 +7,6 @@
 #### Frontend
 [MDN](https://developer.mozilla.org/en-US/)  
 [React](https://reactjs.org/docs/getting-started.html)  
-[Next.js](https://nextjs.org/docs)  
 [Practical React Query](https://tkdodo.eu/blog/practical-react-query)  
 [Redux](https://redux.js.org/introduction/getting-started)  
 [React Router](https://reactrouter.com/docs)  
@@ -22,8 +21,10 @@
 [T3](https://create.t3.gg/)  
 [Next.js](https://nextjs.org/docs)  
 [Prisma](https://www.prisma.io/docs/)  
+[NextAuth](https://authjs.dev/)  
 [tRPC](https://trpc.io/)  
 [Zod](https://zod.dev)  
+[Tailwind](https://tailwindcss.com/docs/)  
 
 ## Ruby
 [Ruby](https://ruby-doc.org/core-3.1.2/)  
