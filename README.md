@@ -14,7 +14,8 @@
 [React-Bootstrap](https://react-bootstrap.github.io/components/alerts)  
 [Chakra UI](https://chakra-ui.com/docs/components/overview)  
 
-#### Backend 
+#### Backend
+[Firebase](https://firebase.google.com/docs)  
 [NestJS](https://docs.nestjs.com)  
 
 #### T3
